@@ -232,3 +232,5 @@ If you are using this library in one of your projects, add it in this list. :spa
 [patreon]: https://www.patreon.com/ionicabizau
 [amazon]: http://amzn.eu/hRo9sIZ
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
+
+2020.10.11 Young
